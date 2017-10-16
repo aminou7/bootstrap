@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+   <head>
+      <title>Your Title</title>
+
+         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"/>
+         <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.min.css"/>
+         &lt;style type=&quot;text/css&quot;&gt;&lt;!-- /*
+         <b:skin><![CDATA[*/]]></b:skin>
+   </head>
+   <body>
+      <b:section class='main' id='main' showaddelement='no'>
+         <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'/>
+      </b:section>
+      <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+   </body>
+</html>
